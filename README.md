@@ -20,6 +20,9 @@
 
 Your workspace is now ready to use. When you want to return to this project, you can find it in your Cloud IDE Dashboard</a>. You should only create one workspace per project.
 
+## Deployed Site
+[malaria-detector-application](https://malaria-detection-application-a45a68ca80ea.herokuapp.com/)
+
 ## Dataset Content
 
 The dataset contains 5643 images taken from a blood smear workflow (where a drop of blood is placed on a glass slide). The cells are either malaria-parasitised or uninfected.
